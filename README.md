@@ -1,4 +1,4 @@
-<h1 align="center"> Formulário PHP </h1>
+<img width="150px" height="100px" align="right" src="https://user-images.githubusercontent.com/98564118/223809453-76cc9406-89ee-462f-846a-c471f7e961dc.png">  <h1 align="center"> Formulário - PHP </h1>
 
 <p align="center">
 Atividade feita para o estudo de como conectar algo em um banco de dados. Ao enviar o formulário as informações são armazenadas.<br/>
