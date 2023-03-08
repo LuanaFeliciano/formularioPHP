@@ -20,6 +20,6 @@ Tecnologias:
 - Defini o método do formulário como POST
 - Verifiquei se houve um submit, se houve é salvo no Banco de Dados
 - Peguei cada informação do formulário com o Post
-- inclui a conexão do Banco no arquivo formulario.php com o include_once('db.php')
-- Contrui a query (INSERT INTO(as colunas do banco de dados) VALUES( as variaveis que guardamos cada informação do form ))
+- Incluí a conexão do Banco no arquivo formulario.php com o include_once('db.php')
+- Construí a query (INSERT INTO(as colunas do banco de dados) VALUES( as variaveis que guardamos cada informação do form ))
 
