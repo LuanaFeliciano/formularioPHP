@@ -1,7 +1,7 @@
 <h1 align="center"> Formulário PHP </h1>
 
 <p align="center">
-Atividade feita para o estudo de como conectar algo em um banco de dados. Ao enviar o formulário as informações são armazenadas em um banco de dados.<br/>
+Atividade feita para o estudo de como conectar algo em um banco de dados. Ao enviar o formulário as informações são armazenadas.<br/>
 </p>
 
 ## 👩🏽‍💻 Tecnologias
@@ -11,6 +11,7 @@ Tecnologias:
 - HTML
 - Git e Github
 - PHP
+- MySQL
 
 ## 💻 Passos
 
