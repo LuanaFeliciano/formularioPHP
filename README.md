@@ -15,7 +15,7 @@ Tecnologias:
 ## 💻 Passos
 
 - Foi criado um banco de dados
-- É feita a conexão do banco no arquivo bd.php
+- É feita a conexão do banco no arquivo bd.php colocando o Host, Username do Banco, Senha e Nome do Banco. Guarde na variável conexão a classe mysqli com tudo acima.
 - Definir o método do formulário como POST
 - Verificar se houve um submit, se houver é salvo no Bando de Dados
 - Pegamos cada informação do formulário com o Post
